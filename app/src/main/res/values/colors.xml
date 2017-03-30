@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="persianBlue">#1C39BB</color>
+    <color name="emerald">#50C878</color>
+    <color name="jungleGreen">#29AB87</color>
+    <color name="amaranth">#E52B50</color>
+    <color name="distortionRed">#b30000</color>
+    <color name="whiteSmoke">#f5f5f5</color>
+    <color name="distortionGrey">#808080</color>
+    <color name="deepSkyBlue">#00bfff</color>
+</resources>
